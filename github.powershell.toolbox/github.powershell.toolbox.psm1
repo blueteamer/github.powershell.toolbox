@@ -22,7 +22,7 @@
 
 
  # 3. Export-ModuleMembers
-Export-ModuleMember -Function "New-GitHubWorkspace" 
+Export-ModuleMember -Function "New-GitHubProject" 
 
 
 
